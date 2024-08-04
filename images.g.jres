@@ -1,0 +1,12 @@
+{
+    "image1": {
+        "data": "hwQeAB4AAAAAACAiIiIiAgAAAAAAAAAAAAAiIiIiIgLAvMy8DAAAAAAQIiIiEiEizLzMvMwAAAAAESIiIhERIsy8zLzMAAAAACEiIiIRESLCvMy8zAAAAAAiIiIiEiEiwsvMywwAAAAAIiIiIiIiItLd3d3dAAAAICIiIiIiIiLR3d3d3d0NACAiIiIiIiIi0d29293d3QAgIiIRIiIiItLd3b3d3d0AICISESEiIiLS3d293d3dACIiEhEhIiIi0t3d293d3QAiIiIRIiIiItLd3d3d3d0AIiIiIiIiIiLS/f/d3d0NACIiIiIiIiIi0h3/3d3dAAAiIiIiIiIRItLd3d3d3QAAIiIiIiISESHS3d3d3d0NACIiIiIiEhEh0t3d3d3d3QASISIiIiIRItLd3d3d3d0AEBEiIiIiIiLS/f/d3d3dABARIiIiIiIi0h3/3d3d3QAQISIiIiIiItLd3d3d3d0AICIiIiIiIiLS3d3d3d0NAAAiIiIiIiIS0d3d3d0AAAAAIiIiIiIiEgEAsN0LAAAAACIiIiIiIhIBAMC7AAAAAAAiIiIiIiISAADMzAAAAAAAIBIhIiIiIgDAzAAAAAAAAAARESIiIgIAzAwAAAAAAAAAEBEiIiICwMwAAAAAAAA=",
+        "mimeType": "image/x-mkcd-f4",
+        "displayName": "Character"
+    },
+    "*": {
+        "mimeType": "image/x-mkcd-f4",
+        "dataEncoding": "base64",
+        "namespace": "myImages"
+    }
+}
