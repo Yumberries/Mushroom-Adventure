@@ -1,10 +1,14 @@
 {
-    "name": "Mushroom Adventure",
+    "name": "Mushroom Adventure #1",
     "description": "",
     "dependencies": {
         "device": "*",
         "Timers": "github:microsoft/arcade-timers#v1.1.0",
-        "arcade-tile-util": "github:microsoft/arcade-tile-util#v1.2.0"
+        "arcade-tile-util": "github:microsoft/arcade-tile-util#v1.2.0",
+        "arcade-platformer": "github:microsoft/arcade-platformer#v0.0.10",
+        "Extra Effects": "github:alexszeto/extra-effects#v3.1.0",
+        "pxt-status-bar": "github:jwunderl/pxt-status-bar#v0.4.2",
+        "arcade-sprite-util": "github:jwunderl/arcade-sprite-util#v0.4.1"
     },
     "files": [
         "main.blocks",
