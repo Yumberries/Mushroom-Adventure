@@ -1,5 +1,5 @@
 {
-    "name": "Mushroom Adventure #1",
+    "name": "Mushroom Adventure",
     "description": "",
     "dependencies": {
         "device": "*",
@@ -8,7 +8,8 @@
         "arcade-platformer": "github:microsoft/arcade-platformer#v0.0.10",
         "Extra Effects": "github:alexszeto/extra-effects#v3.1.0",
         "pxt-status-bar": "github:jwunderl/pxt-status-bar#v0.4.2",
-        "arcade-sprite-util": "github:jwunderl/arcade-sprite-util#v0.4.1"
+        "arcade-sprite-util": "github:jwunderl/arcade-sprite-util#v0.4.1",
+        "arcade-story": "github:microsoft/arcade-storytelling#v1.0.3"
     },
     "files": [
         "main.blocks",
